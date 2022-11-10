@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "BitBot": "github:4tronix/bitbot#1.5.2",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5"
     },
     "files": [
         "main.blocks",
